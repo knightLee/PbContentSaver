@@ -1,0 +1,9 @@
+{
+	"title": "$:/plugins/knightLee/pbContentSaver",
+	"description": "Parse a tiddler of Tiddlywiki and save protobuf content to file.",
+	"author": "Knight Lee",
+	"version": "0.0.1",
+	"core-version": ">=5.0.8",
+	"source": "https://github.com/knightLee/PbContentSaver",
+	"plugin-type": "plugin"
+}
